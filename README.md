@@ -5,12 +5,12 @@ View customer, Add customer, Update customer, Delete customer via Spring MVC jsp
 About the project:  
 Maven project with java config.    
 
-•	CRM  project : 
-  o	MySQL database with clients
-  o	Hibernate – as JPA implementation
-  o	Spring MVC
-  o	Spring AOP
-  o	Spring REST
+CRM  project:  
+  - MySQL database with clients  
+  -  Hibernate – as JPA implementation  
+  -  Spring MVC  
+  -  Spring AOP  
+  -  Spring REST
 
 
 Learning notes:	  
@@ -28,5 +28,7 @@ Delete	DELETE	/api/customers/{customerId}
 
 To do: 	
 •	create a REST client for CRM app
-•	secure REST API endpoints
+•	secure REST API endpoints  
+
+[BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git)
 
