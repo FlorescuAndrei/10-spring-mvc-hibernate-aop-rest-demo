@@ -16,7 +16,7 @@ CRM  project:
 Learning notes:	  
 
 Postman is a RESTClient, like a browser client design for advance REST testing.  
-Postman seetings to send JSON data - body/row/applicationJson
+Postman seetings to send JSON data - body*row*applicationJson
 
 HTTP Method	CRUD Action	Edpoint
 Post	CREATE	/api/customers
@@ -26,9 +26,9 @@ Put	UPDATE	/api/customers
 Delete	DELETE	/api/customers/{customerId}
 
 
-To do: 	
-•	create a REST client for CRM app
-•	secure REST API endpoints  
+To do:  
+  - create a REST client for CRM app;  
+  - secure REST API endpoints.  
 
 [BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git)
 
