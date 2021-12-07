@@ -20,7 +20,7 @@ Postman seetings to send JSON data - body*row*applicationJson
   
     
 | HTTP Method | CRUD   | Action	Edpoint |
-| :---------- |:------:| --------------:|
+| :---------- |:------:| :--------------|
 | POST        | CREATE | /api/customers |
 | GET         | READ   | <ul><li>/api/customers</li><li> /api/customers/{customerId}</li>|
 | PUT         | UPDATE | /api/customers |  
