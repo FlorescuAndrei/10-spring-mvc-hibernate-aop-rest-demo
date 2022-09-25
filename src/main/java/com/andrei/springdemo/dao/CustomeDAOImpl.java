@@ -14,7 +14,7 @@ import com.andrei.springdemo.entity.Customer;
 @Repository  //subclass of @Component
 public class CustomeDAOImpl implements CustomerDAO {
 	
-	//inject session factory bean from spring-mvc-crud-demo-servlet.xml
+	//inject session factory bean from DemoAppConfig.java
 	@Autowired
 	private SessionFactory factory;
 
